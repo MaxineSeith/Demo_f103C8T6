@@ -1,2 +1,2 @@
-# Demo_f103C8T6
+# Battery Safety Monitoring and Alarm System Based on STM32
 
